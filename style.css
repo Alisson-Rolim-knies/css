@@ -5,15 +5,15 @@
     padding: 0;
 }
 label {
-color: rgba(217, 255, 0, 0.425);
+color: rgba(20, 20, 20, 0.425);
 }
 body {
-    background-color: black;
+    background-color: rgba(247, 247, 247, 0.753);
 }
 h1 { 
-    color: red;
+    color: rgba(12, 12, 12, 0.432);
 }
 .botao {
-background-color: aqua;
+background-color: rgba(29, 5, 116, 0.336);
 }
 
